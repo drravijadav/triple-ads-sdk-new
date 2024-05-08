@@ -42,7 +42,6 @@ dependencies {
     //AdMob mediation
 
     //Applovin mediation
-    implementation 'com.applovin.mediation:google-ad-manager-adapter:23.0.0.1'
     implementation 'com.applovin.mediation:facebook-adapter:6.17.0.0'
 
     //GDPR
